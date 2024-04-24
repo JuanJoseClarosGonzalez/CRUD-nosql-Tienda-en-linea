@@ -1,1 +1,1 @@
-Diseñar un sistema para administrar la informacion de productos en una tienda en linea. cada producto tiene un nombre y un precio, y esta asociado a una categoria especifica. ademas, cada categorai tiene un nombre y una descripcion
+Diseñar un sistema para administrar la informacion de productos en una tienda en linea. cada producto tiene un nombre y un precio, y esta asociado a una categoria especifica. ademas, cada categoria tiene un nombre y una descripcion.
